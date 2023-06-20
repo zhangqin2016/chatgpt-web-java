@@ -12,7 +12,7 @@ spring:
 
 chat:
   # OpenAI API Key - https://platform.openai.com/account/api-keys
-  openai_api_key: ${CHAT_OPENAI_API_KEY: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}
+  openai_api_key: ${CHAT_OPENAI_API_KEY:sk-f2pY5Hxj9ee9k5a21A67HJy0aTliCONEET0qZzeRe5ODZaOc}
   # change this to an `accessToken` extracted from the ChatGPT site's `https://chat.openai.com/api/auth/session` response
   openai_access_token: ${CHAT_OPENAI_ACCESS_TOKEN:}
   # OpenAI API Base URL - https://api.openai.com/，要加/后缀
